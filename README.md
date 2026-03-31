@@ -1,4 +1,13 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/115c6694-e520-46d5-8407-f4aef11be94a" />
+# 🎵 Emotify
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6e5081d2-27fa-4539-9285-043de243dcad" />
+
+> **Your face is the playlist.** > An AI-powered web application that detects your facial expressions to gauge your mood and auto-magically plays the perfect track to match your vibe.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![Tech Stack](https://img.shields.io/badge/Stack-MERN-blue)](https://reactjs.org/)
+
+---
 
 ## 🚀 About The Project
 
@@ -61,7 +70,7 @@ SPOTIFY_CLIENT_ID=your_spotify_id
 SPOTIFY_CLIENT_SECRET=your_spotify_secret
 EMAIL_USER=your_email_for_otp
 EMAIL_PASS=your_email_password
-```  
+```
 #### Start the server:
 ```bash
 node server.js
